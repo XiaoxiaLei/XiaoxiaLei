@@ -1,25 +1,21 @@
 title: Xiaoxia Lei
 logo: /assets/img/xiaoxia.jpg
 description: 
-        <dl>
-            <dd>Department of Information, Technology and Innovation </dd>
-<!--         //    <dd>A large feline inhabiting Bodmin Moor.</dd> -->
-        </dl>
         
-        <dl>
-            <dd>Shanghai Jiao Tong University </dd>
-            <dd>Antai College of Economics and Management (ACEM) </dd>
-            <dd>1954 Huashan Road </dd>
-            <dd>Shanghai, 200030, China </dd>
-<!--         //    <dd>A sea serpent.</dd> -->
-        </dl>
-           
-        <dl>
-            <dd>dr.xiaoxia.lei [AT] gmail [DOT] com </dd>
-<!--         //    <dd>A giant owl-like creature.</dd> -->
-        </dl>
+<dd>Department of Information, Technology and Innovation </dd>
+        
+<dd><br /></dd>        
+<dd>Shanghai Jiao Tong University </dd>
+<dd>Antai College of Economics and Management (ACEM) </dd>
+<dd>1954 Huashan Road </dd>
+<dd>Shanghai, 200030, China </dd>
+      
+<dd><br /></dd>        
+<dd>dr.xiaoxia.lei [AT] gmail [DOT] com </dd>
 
-            <dt><a href="https://scholar.google.com/citations?user=mY4JRaoAAAAJ&hl=zh-CN&oi=sra">Google Scholar</a> | <a href="https://www.ssrn.com/index.cfm/en/" data-proofer-ignore>SSRN</a> | <a href="https://twitter.com/xiaoxialei" data-proofer-ignore>Twitter</a> </dt>
+<dt><a href="https://scholar.google.com/citations?user=mY4JRaoAAAAJ&hl=zh-CN&oi=sra">Google Scholar</a> | <a href="https://www.ssrn.com/index.cfm/en/" data-proofer-ignore>SSRN</a> | <a href="https://twitter.com/xiaoxialei" data-proofer-ignore>Twitter</a> </dt>
+
+
 
 show_downloads: false
 google_analytics:
