@@ -133,6 +133,28 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+ul.menu {
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+
+ul {
+  list-style-type:none;
+}
+
+li {
+  float:left;
+}
+
+li a {
+  display:block;
+  text-align:center;
+  padding:20px 25px;
+  text-decoration:none;
+}
+
 ul.downloads {
   list-style:none;
   height:40px;
@@ -194,7 +216,7 @@ strong {
 }
 
 section {
-  width:500px;
+  width:1000px;
   float:right;
   padding-bottom:50px;
 }
@@ -217,6 +239,11 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+span.award {
+  color: #E04D01
+}
+
 
 @media print, screen and (max-width: 960px) {
 
