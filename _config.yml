@@ -2,16 +2,16 @@ title: Xiaoxia Lei
 logo: /assets/img/xiaoxia.jpg
 description: 
         <dl>
-            <dt>Department of Information, Technology and Innovation </dt>
+            <dd>Department of Information, Technology and Innovation </dd>
 <!--         //    <dd>A large feline inhabiting Bodmin Moor.</dd> -->
-
-            <dt>Shanghai Jiao Tong University </dt>
-            <dt>Antai College of Economics and Management (ACEM) </dt>
-            <dt>1954 Huashan Road </dt>
-            <dt>Shanghai, 200030, China </dt>
+            <br>
+            <dd>Shanghai Jiao Tong University </dd>
+            <dd>Antai College of Economics and Management (ACEM) </dd>
+            <dd>1954 Huashan Road </dd>
+            <dd>Shanghai, 200030, China </dd>
 <!--         //    <dd>A sea serpent.</dd> -->
 
-            <dt>dr.xiaoxia.lei [AT] gmail [DOT] com </dt>
+            <dd>dr.xiaoxia.lei [AT] gmail [DOT] com </dd>
 <!--         //    <dd>A giant owl-like creature.</dd> -->
         </dl>
 
