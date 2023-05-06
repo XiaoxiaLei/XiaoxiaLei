@@ -116,11 +116,12 @@ th {
 }
 
 img {
-  width:270;
-  height=173px;
+
   max-width:100%;
 }
 
+// width:270px;
+// height:173px;
 // max-width:100%;
 
 kbd {
