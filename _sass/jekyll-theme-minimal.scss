@@ -87,14 +87,16 @@ pre {
 }
 
 table {
+  table-layout:fixed;
   width:100%;
-  border-collapse:collapse;
+  border-style:none;
+
 }
 
 th, td {
   text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  padding:1px 1px;
+
 }
 
 dt {
