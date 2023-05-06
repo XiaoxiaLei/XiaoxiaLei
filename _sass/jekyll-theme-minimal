@@ -23,14 +23,14 @@ h1 {
 
 h2, h3, h4, h5, h6 {
   color:#222;
-  margin:-15px 20px 20px 0px;
+  margin:-15px 30px 20px 0px;
 }
 
 p, table, ol, pre {
-  margin:-15px 20px 20px 60px;
+  margin:-15px 30px 20px 60px;
 }
 
-dl {
+dl, dd, dt {
   margin: 0px 0px 0px 0px;
 }
 
@@ -95,7 +95,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:1300px;
+  width:1360px;
   // left side is 270
   // 1300-170 = 1000
   // 30px free room
@@ -183,7 +183,7 @@ header {
 
 ul.menu {
   list-style-type:none;
-  margin:-25px 80px 20px 0px;
+  margin:-25px 60px 20px 0px;
   padding:0;
   overflow:hidden;
 }
