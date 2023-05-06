@@ -27,7 +27,7 @@ h2, h3, h4, h5, h6 {
 }
 
 p, table, ol, pre {
-  margin:-5px 20px 20px 60px;
+  margin:-15px 20px 20px 60px;
 }
 
 dl {
@@ -183,7 +183,7 @@ header {
 
 ul.menu {
   list-style-type:none;
-  margin:-25px 50px 20px 0px;
+  margin:-25px 80px 20px 0px;
   padding:0;
   overflow:hidden;
 }
