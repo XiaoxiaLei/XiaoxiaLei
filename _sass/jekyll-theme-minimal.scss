@@ -18,12 +18,36 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:-15px 0px 20px 60px;
+  margin:-15px 20px 20px 60px;
 }
 
-p, ol, table, pre, dl {
+p, ol, pre, dl {
   margin:-5px 0px 20px 60px;
 }
+
+table {
+  margin: 0px 0px 20px 0px;
+}
+
+
+// <table>
+//   <tr>
+//     <th>Company</th>
+//     <th>Contact</th>
+//     <th>Country</th>
+//   </tr>
+//   <tr>
+//     <td>Alfreds Futterkiste</td>
+//     <td>Maria Anders</td>
+//     <td>Germany</td>
+//   </tr>
+//   <tr>
+//     <td>Centro comercial Moctezuma</td>
+//     <td>Francisco Chang</td>
+//     <td>Mexico</td>
+//   </tr>
+// </table>
+
 
 h1, h2, h3 {
   line-height:1.1;
