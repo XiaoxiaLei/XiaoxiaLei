@@ -48,6 +48,34 @@ layout: default
 
 [...see all media mentions](./media)
 
+<p><br></p>
+
+<img style="width:350px;" src="/assets/img/wordcloud1.jpg"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
