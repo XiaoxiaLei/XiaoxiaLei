@@ -29,10 +29,10 @@ layout: default
 
 #### News
 
-09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
-05/23/2022: I will be joining Intel XFG this summer!  
-09/01/2021: Officially started my PhD.  
-05/22/2021: **I officially graduated from UT Austin!**  
+09/22/2022: *Towards a Machine Learning * is accepted to [WISE'23](https://asplos-conference.org/)!  
+05/23/2022: I will be joining  this summer!  
+09/01/2019: Officially started my PhD.  
+//2024: **I officially graduated from !**  
 
 [...see all news](./news)
 
@@ -41,10 +41,10 @@ layout: default
 
 #### Media Mentions
 
-09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
-05/23/2022: I will be joining Intel XFG this summer!  
-09/01/2021: Officially started my PhD.  
-05/22/2021: **I officially graduated from UT Austin!**  
+09/22/2022: *Towards a Machine Learning * is accepted to [WISE'23](https://asplos-conference.org/)!  
+05/23/2022: I will be joining  this summer!  
+09/01/2019: Officially started my PhD.  
+//2024: **I officially graduated from !**  
 
 [...see all media mentions](./media)
 
