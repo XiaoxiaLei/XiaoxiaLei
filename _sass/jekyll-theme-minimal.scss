@@ -23,11 +23,11 @@ h1 {
 
 h2, h3, h4, h5, h6 {
   color:#222;
-  margin:-15px 30px 20px 150px;
+  margin:-15px 30px 20px 0px;
 }
 
 p, table, ol, pre {
-  margin:-15px 30px 20px 150px;
+  margin:-15px 30px 20px 0px;
 }
 
 dl, dd, dt {
@@ -95,10 +95,16 @@ a:hover small {
 }
 
 .wrapper {
-  width:1360px;
-  // left side is 270
-  // 1300-270 = 1000
+  width:1210px;
+  
+  // left side is 300
+  // 1300-300 = 1000
   // 60px free room
+  
+  // left side is 300
+  // 1150-300 = 850
+  // 60px free room
+  
   margin:0 auto;
 }
 
@@ -264,7 +270,7 @@ strong {
 }
 
 section {
-  width:1000px;
+  width:850px;
   float:right;
   padding-bottom:50px;
 }
