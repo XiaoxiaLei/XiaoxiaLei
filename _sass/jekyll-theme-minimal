@@ -28,7 +28,7 @@ h2, h3, h4, h5, h6 {
 
 p, table, ol, pre {
   margin:-18px 30px 20px 30px;
-  width:900px;
+  width:890px;
 }
 
 dl, dd, dt {
