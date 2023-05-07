@@ -28,6 +28,8 @@ h2, h3, h4, h5, h6 {
 
 p, table, ol, pre {
   margin:-15px 30px 20px 150px;
+  position:fixed; 
+  left:360px;
 }
 
 dl, dd, dt {
@@ -267,8 +269,6 @@ section {
   width:1000px;
   float:right;
   padding-bottom:50px;
-  position:fixed; 
-  left:30px;
 }
 
 small {
