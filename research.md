@@ -19,7 +19,7 @@ layout: default
 <div>
 <h3>Working Papers</h3>
  
-<p><a href="https://arxiv.org/">     Learning Across </a><br>
+<p><a href="https://arxiv.org/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning Across </a><br>
 (with )<br>
 Major Revision, <b>Management Science</b><br>
 <span class='award'>Paper Award (2022)</span></p>
