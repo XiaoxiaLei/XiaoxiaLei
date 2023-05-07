@@ -50,7 +50,7 @@ layout: default
 
 <p><br></p>
 
-<img style="width:350px;" src="/assets/img/wordcloud1.jpg"/>
+<img style="width:300px;" src="/assets/img/wordcloud1.jpg"/>
 
 
 
