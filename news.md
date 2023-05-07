@@ -23,7 +23,6 @@ layout: default
 
 
 
-[Home](./)
 
 ## News
 
