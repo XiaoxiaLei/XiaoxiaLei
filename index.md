@@ -46,7 +46,7 @@ layout: default
 09/01/2021: Officially started my PhD.  
 05/22/2021: **I officially graduated from UT Austin!**  
 
-[...see all media mentions](./media_mentions)
+[...see all media mentions](./media)
 
 
 
