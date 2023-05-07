@@ -53,7 +53,7 @@ layout: default
 
 <p><br></p>
 
-<img style="width:300px;" src="/assets/img/wordcloud.jpg"/>
+<img style="width:400px;height:200px;" src="/assets/img/wordcloud.png"/>
 
 
 
