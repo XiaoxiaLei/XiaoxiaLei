@@ -23,7 +23,6 @@ layout: default
 
 
 
-[Home](./)
 
 ## Media Mentions
 
