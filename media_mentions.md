@@ -25,7 +25,7 @@ layout: default
 
 [Home](./)
 
-## News
+## Media Mentions
 
 09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
 05/23/2022: I will be joining Intel XFG this summer!  
