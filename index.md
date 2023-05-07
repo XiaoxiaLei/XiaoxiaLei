@@ -22,8 +22,12 @@ layout: default
 
 <!-- <p>My research aims to develop novel machine learning algorithms for data-driven decision making practices, with focus on bandits and multitask learning. In addition, I also seek to provide safe and robust machine learning solutions. My work has been motivated by real-world business applications in healthcare operations, textual analytics, and dynamic pricing. </p> -->
 
+<p><br></p>
 
-##### News
+
+
+
+#### News
 
 09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
 05/23/2022: I will be joining Intel XFG this summer!  
@@ -33,7 +37,14 @@ layout: default
 [...see all news](./news)
 
 
+#### Media Mentions
 
+09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
+05/23/2022: I will be joining Intel XFG this summer!  
+09/01/2021: Officially started my PhD.  
+05/22/2021: **I officially graduated from UT Austin!**  
+
+[...see all media mentions](./media_mentions)
 
 
 
