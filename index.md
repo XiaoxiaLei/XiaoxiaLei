@@ -14,9 +14,7 @@ layout: default
 <!-- <li><a href="./my_failed_projects.html">Failed</a></li> -->
 </ul>
 
-p.shifted {
-    margin-left: 60px;
-}
+
 
 
 <p>I am currently a 4th year PhD student in the Department of Information, Technology and Innovation at the Shanghai Jiao Tong University</p>
@@ -55,10 +53,10 @@ p.shifted {
 
 <p><br></p>
 
-<img src="/assets/img/wordcloud1.jpg"/>
+<img style="width:300px;" src="/assets/img/wordcloud.jpg"/>
 
 
-<!-- style="width:300px;" -->
+
 
 
 
