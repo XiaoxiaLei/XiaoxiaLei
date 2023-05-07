@@ -13,3 +13,8 @@ layout: default
 <li><a href="./miscellaneous.html">Misc.</a></li>
 <!-- <li><a href="./my_failed_projects.html">Failed</a></li> -->
 </ul>
+
+
+
+
+#### Useful Links
