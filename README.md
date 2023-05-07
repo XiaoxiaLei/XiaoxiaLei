@@ -1,4 +1,4 @@
-# [Hello, I'm Xiaoxia]  
+# Hello, I'm Xiaoxia  
 <!-- (https://xiaoxialei.github.io/) -->
 https://xiaoxialei.github.io/
 
