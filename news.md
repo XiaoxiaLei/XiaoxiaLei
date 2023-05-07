@@ -26,7 +26,7 @@ layout: default
 
 ## News
 
-09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
+<!-- 09/22/2022: *Towards a Machine Learning-Assisted Kernel with LAKE* is accepted to [ASPLOS'23](https://asplos-conference.org/asplos-2023-cfp/)!  
 05/23/2022: I will be joining Intel XFG this summer!  
 09/01/2021: Officially started my PhD.  
 05/22/2021: **I officially graduated from UT Austin!**  
@@ -39,5 +39,5 @@ layout: default
 03/01/2021: Admitted to several Ph.D. programs!  
 12/15/2020: Currently applying for PhD program in CS!  
 08/24/2020: I just finished my presentation for [Altis](https://github.com/utcs-scea/altis). The video can be found [here](https://www.youtube.com/watch?v=mRkcmjGzytY).  
-01/28/2020: My paper *Altis: Modernizing GPGPU Benchmarking* is accepted to [ISPASS](https://ieeexplore.ieee.org/document/9238617)!
+01/28/2020: My paper *Altis: Modernizing GPGPU Benchmarking* is accepted to [ISPASS](https://ieeexplore.ieee.org/document/9238617)! -->
 
