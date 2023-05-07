@@ -19,26 +19,25 @@ layout: default
 <div>
 <h3>Working Papers</h3>
  
-<p><br></p>
-<p>   <a href="https://arxiv.org/">Learning Across </a><br>
+<p><a href="https://arxiv.org/">     Learning Across </a><br>
 (with )<br>
 Major Revision, <b>Management Science</b><br>
 <span class='award'>Paper Award (2022)</span></p>
   
   
   
-<p><br></p>
+
 <p><br></p>
 <h3>Publications</h3>
 
-<p><br></p>
+
 <p><a href="https://proceedings.mlr.press/">Reinforcement Learning</a><br>
 (with )<br>
 <b>Internat</b>, 2023</p>
 
   
 
-<p><br></p>
+
 <p><br></p>
 <h3>Software</h3>
   
