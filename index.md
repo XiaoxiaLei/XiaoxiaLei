@@ -63,7 +63,7 @@ layout: default
 </div> -->
 
 
-<p>Copyright©2023-2023  xiaoxialei.com  .All Rights Reserved</p>
+<p>Copyright © 2023-2023 Xiaoxia Lei. All Rights Reserved</p>
 
 
 <!-- <a href="https://beian.miit.gov.cn/" target="_blank">023012226</a> -->
