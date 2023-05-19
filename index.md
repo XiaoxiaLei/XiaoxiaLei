@@ -56,13 +56,18 @@ layout: default
 <img style="width:400px;height:200px;" src="/assets/img/wordcloud.png"/>
 
 
-<a href="https://beian.miit.gov.cn/" target="_blank">023012226</a>
-<a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2023012226号-1</a>
 
-<div class="xiaoxia_footer">
+
+<!-- <div class="xiaoxia_footer">
 <p>Copyright©2023-2023  xiaoxialei.com  .All Rights Reserved</p>
-</div>
+</div> -->
 
+
+<p>Copyright©2023-2023  xiaoxialei.com  .All Rights Reserved</p>
+
+
+<!-- <a href="https://beian.miit.gov.cn/" target="_blank">023012226</a> -->
+<a href="https://beian.miit.gov.cn/" target="_blank">湘ICP备2023012226号-1</a>
 
 
 
