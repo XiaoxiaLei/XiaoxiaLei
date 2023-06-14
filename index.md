@@ -77,9 +77,9 @@ layout: default
 </div> -->
 		 
 
-<div style="width:300px;margin:0 auto; padding:20px 0;">
-<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43102502000067" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="/assets/img/备案图标.png" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">湘公网安备 43102502000067号</p></a>
-<a target="_blank" href="https://beian.miit.gov.cn/" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">湘ICP备2023012226号-1</p></a>
+<div>
+<img src="/assets/img/备案图标.png" style="float:left;"/>
+<a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43102502000067">湘公网安备 43102502000067号</a><a target="_blank" href="https://beian.miit.gov.cn/">湘ICP备2023012226号-1</a>
 </div>
 
 
